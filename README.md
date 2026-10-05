@@ -139,29 +139,6 @@ Product sales are compared across:
 
 Customer counts are analyzed by region to understand the distribution of customers across different geographical areas.
 
-## Project Structure
-
-ecommerce-sales-customer-analytics/
-│
-├── data/
-│   ├── sales_raw_500.xlsx
-│   ├── sales_raw_new_2026.csv
-│   └── Sales_Cleaned.csv
-│
-├── python/
-│   └── Cleaning.ipynb
-│
-├── sql/
-│   └── sales_data.sql
-│
-├── powerbi/
-│   └── Sales_PowerBI.pbix
-│
-├── screenshots/
-│   └── Sales Dashboard.png
-│
-└── README.md
-
 ## Key Skills Demonstrated
 
 * Python
