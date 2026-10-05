@@ -1,4 +1,4 @@
-
+<img width="1877" height="752" alt="image" src="https://github.com/user-attachments/assets/d5f3aea1-9941-4159-82ee-ab0dd17fed2c" />
 # E-Commerce Sales & Customer Analytics
 
 ## Project Overview
@@ -108,7 +108,8 @@ The dashboard includes interactive filters for:
 
 ### Dashboard Preview
 
-![E-Commerce Sales & Customer Analytics Dashboard](screenshots/Sales Dashboard.png)
+![Uploading image.png…]()
+
 
 ## Dashboard Analysis
 
