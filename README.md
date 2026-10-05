@@ -19,7 +19,6 @@ The project uses **Python, MySQL, SQL, and Power BI** to clean, transform, analy
 
 ## Project Workflow
 
-```text
 Raw Sales Data
       ↓
 Python & Pandas
@@ -50,13 +49,12 @@ The cleaning process included:
 
 Profit was calculated as:
 
-```text
+
 Profit = Sales - Cost
-```
+
 
 The cleaned dataset contains the following fields:
 
-```text
 Order_ID
 Order_Date
 Customer
@@ -67,7 +65,6 @@ Cost
 Profit
 Year
 Month
-```
 
 ## MySQL & SQL
 
@@ -75,22 +72,18 @@ The cleaned data was loaded into a MySQL database named `salesdb`.
 
 The main table used for analysis is:
 
-```text
 sales_data
-```
 
 SQL was used to query and analyze the sales data before creating the Power BI dashboard.
 
 Example:
 
-```sql
 SELECT
     Product,
     SUM(Sales) AS Total_Sales
 FROM sales_data
 GROUP BY Product
 ORDER BY Total_Sales DESC;
-```
 
 ## Power BI Dashboard
 
@@ -148,7 +141,6 @@ Customer counts are analyzed by region to understand the distribution of custome
 
 ## Project Structure
 
-```text
 ecommerce-sales-customer-analytics/
 │
 ├── data/
@@ -169,7 +161,6 @@ ecommerce-sales-customer-analytics/
 │   └── Sales Dashboard.png
 │
 └── README.md
-```
 
 ## Key Skills Demonstrated
 
